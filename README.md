@@ -1,2 +1,1 @@
-# X4-ABU
-Funny, gamer, study , chat  bot
+X4_Abu_Aimlock_Config_V2.ini
